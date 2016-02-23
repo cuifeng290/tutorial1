@@ -16,7 +16,7 @@
  *
  */
 package com.alibaba.webx.tutorial1.app1;
-
+//test
 public class SimpleObject {
     private String name;
 
